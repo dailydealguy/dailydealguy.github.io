@@ -1,1 +1,2 @@
-# dailydealguy.github.io
+# dailydealguy
+test on how to use docusaurus 2
